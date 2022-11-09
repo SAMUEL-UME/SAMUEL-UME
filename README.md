@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Blog_API](https://github.com/SAMUEL-UME/Blog_Api)
 
-- 🌱 I’m currently learning **REACTJS**
+- 🌱 I’m currently learning **Nextjs**
 
 - 💬 Ask me about **MERN**
 
