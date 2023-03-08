@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/ume7276" target="blank"><img src="https://img.shields.io/twitter/follow/ume7276?logo=twitter&style=for-the-badge" alt="ume7276" /></a> </p>
 
-- 🔭 I’m currently working on [Blog_API](https://github.com/SAMUEL-UME/Blog_Api)
+- 🔭 I’m currently working on [Blogospot](https://github.com/SAMUEL-UME/blogospot-frontend)
 
 - 🌱 I’m currently learning **Typescript**
 
