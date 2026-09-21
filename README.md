@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on scalable web applications with React.js, Next.js & TypeScript.<br><br>👯 Looking to collaborate on impactful and innovative tech projects.<br><br>🤝 Looking for help with backend engineering, system design & career growth.<br><br>🌱 Currently learning advanced backend development and performance optimization.<br><br>💬 Ask me about React.js, Next.js, TypeScript & frontend development.<br><br>⚡ Fun fact: I can spend 6 hours debugging a bug only to realize I forgot a semicolon… then celebrate like I solved world hunger.
+🔭 Working on scalable web applications with React.js, Next.js & TypeScript.<br><br>👯 Looking to collaborate on impactful and innovative tech projects.<br><br>🤝 Looking for help with backend engineering, system design & career growth.<br><br>🌱 Currently learning advanced backend development and performance optimization.<br><br>💬 Ask me about React.js, Next.js, TypeScript & frontend development.<br><br>⚡ Fun fact: I can spend 6 hours debugging a bug only to realize I forgot a semicolon… then celebrate like I solved world hunger...
 
 
 ## 🌐 Socials:
