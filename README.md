@@ -74,12 +74,6 @@
 
 ---
 
-## 🐍 Contribution Graph
-
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
----
-
 ### 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=Samuel-ume\&style=flat\&color=blue)
