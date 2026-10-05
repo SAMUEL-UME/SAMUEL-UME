@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Samuel Ume
 
-### Software Developer 
-
----
-
 ## 💫 About Me
 
 * 🔭 Building modern web applications with **JavaScript, TypeScript, React & Next.js**
