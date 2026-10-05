@@ -1,21 +1,15 @@
 # 👋 Hi, I'm Samuel Ume
 
-### Frontend Developer | Computer Science Student | Software Engineer in Progress
-
-I build modern, responsive web applications with **React, Next.js, TypeScript, and JavaScript**. I'm currently strengthening my backend engineering skills and deepening my understanding of software engineering fundamentals.
-
-I'm interested in building products that solve real problems, learning from strong engineering teams, and growing into a well-rounded software engineer.
+### Software Developer 
 
 ---
 
 ## 💫 About Me
 
-* 🔭 Currently building and improving web applications with **React, Next.js & TypeScript**
-* 🌱 Currently learning **backend engineering, system design, data structures & algorithms**
-* 👯 Open to collaborating on **interesting and impactful software projects**
-* 💬 Ask me about **React, Next.js, TypeScript, JavaScript & frontend development**
-* 🤝 Interested in opportunities where I can **learn, contribute, and grow as an engineer**
-* ⚡ Fun fact: I can spend 6 hours debugging a bug only to discover I forgot a semicolon... then celebrate like I solved world hunger.
+* 🔭 Building modern web applications with **JavaScript, TypeScript, React & Next.js**
+* 👯 Open to collaborating on **impactful and innovative tech projects**
+* 💬 Ask me about **JavaScript, TypeScript, React, Next.js & web development**
+* 🤝 Open to connecting with developers, founders, and teams building interesting product.
 
 ---
 
@@ -70,7 +64,6 @@ I'm interested in building products that solve real problems, learning from stro
 ## 🚀 What I'm Currently Working On
 
 * Strengthening my **JavaScript & TypeScript fundamentals**
-* Learning **backend development with Node.js and Express**
 * Practicing **Data Structures & Algorithms**
 * Learning **system design and software architecture**
 * Building projects that improve my understanding of real-world software development
