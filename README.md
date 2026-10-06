@@ -16,7 +16,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat\&logo=facebook\&logoColor=white)](https://www.facebook.com/sam.oluwasegun.12/)
 
 ---
-
 ## 💻 Tech Stack
 
 ### Languages
